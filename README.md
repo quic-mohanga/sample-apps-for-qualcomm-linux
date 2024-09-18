@@ -43,10 +43,10 @@ cd <installation directory of platfom SDK>
 5. export SDKTARGETSYSROOT=<path to installation directory of platfom SDK>/tmp/sysroots
    Example : export SDKTARGETSYSROOT=/local/mnt/workspace/Platform_eSDK_plus_QIM/tmp/sysroots
 
-   export MACHINE=<machine>
+   export MACHINE=< machine >
    Example: export MACHINE=qcs6490-rb3gen2-vision-kit
 
-   export GST_APP_NAME=<appname> 
+   export GST_APP_NAME=< appname > 
    Example: export GST_APP_NAME=gst-appsink
 7. make 
 
